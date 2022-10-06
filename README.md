@@ -7,7 +7,7 @@ This repository includes the first assignment created as part of the Advanced Pr
 <img src="https://i.pinimg.com/originals/fe/60/4c/fe604c386cbe5de093a44ac6584be8c4.jpg"  width=25%>
 </p>
 
-The Advanced Programming course goes over C programming, by focusing on abstract data types including the main components, structures, linked lists, modules, memory management, file handling, and the compilation process... In addition, C++ programming principles and mechanisms like encapsulation, inheritance, polymorphism, generic programming, and templates were taught. The course also teaches script languages as another approach to programming.
+The Advanced Programming course goes over **C programming**, by focusing on **abstract data types** including the main components, **structures**, **linked lists**, **modules**, **memory management, **file handling**, and the **compilation process**... In addition, **C++ programming** principles and mechanisms like **encapsulation**, **inheritance**, **polymorphism**, **generic programming**, and **templates** were taught. The course also teaches script languages as another approach to programming.
 
 ## BigBrother
 Bash script that tracks the changes in a specified folder.
